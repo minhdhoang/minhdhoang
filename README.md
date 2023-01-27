@@ -12,4 +12,4 @@ I am Duc Minh Hoang, preferably called **Minh**. Currently, I am studying MSc Ma
 Right now, I am working through my portfolio. Please see some of my projects below.
 
 ## Project
-* **Covid-19:** Global Statistics & Dashboard ☞ [Tableau](https://public.tableau.com/app/profile/duc.minh.hoang/viz/Covid-19GlobalStatisticsDashboard/Dashboard1?publish=yes) | [GitHub]()
+* **Covid-19:** Global Statistics & Dashboard ☞ [Tableau](https://public.tableau.com/app/profile/duc.minh.hoang/viz/Covid-19GlobalStatisticsDashboard/Dashboard1?publish=yes) | [GitHub](https://github.com/minhdhoang/Covid-19-Global-Statistics-Dashboard/blob/405f940e356fe813f78a2d2a6ed96a37df772f2f/Covid_19Script.sql)
