@@ -10,4 +10,4 @@ Right now, I am working through my portfolio. Please see some of my projects bel
 
 ## Portfolio
 * **Covid-19:** Global Statistics & Dashboard ☞ [Tableau](https://public.tableau.com/app/profile/duc.minh.hoang/viz/Covid-19GlobalStatisticsDashboard/Dashboard1?publish=yes) | [SQL](https://github.com/minhdhoang/Covid-19-Global-Statistics-Dashboard/blob/405f940e356fe813f78a2d2a6ed96a37df772f2f/Covid_19Script.sql)
-* **Analyse Customer Spending Habit at a Bike Company:** A Cross-country Analysis of the Profit ☞ [Python](https://github.com/minhdhoang/Bike-Analysis/blob/6249f4637a1a355cad0eb4ecc62e42151230d3f4/portfolio-analyse-customer-spending-habit.ipynb)
+* **Customer Spending Habit at a Bike Company:** A Cross-country Analysis of the Profit ☞ [Python](https://github.com/minhdhoang/Bike-Analysis/blob/6249f4637a1a355cad0eb4ecc62e42151230d3f4/portfolio-analyse-customer-spending-habit.ipynb)
